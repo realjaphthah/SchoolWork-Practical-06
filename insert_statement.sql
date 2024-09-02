@@ -1,0 +1,12 @@
+﻿insert into MenuItem(Name, Description, Price, Image, Category, Active, OnSpecial) Values
+('Grilled Steak with Asparagus', 'Juicy grilled steak served with fresh asparagus and a side of roasted cherry tomatoes.' ,180.0, 'image/menu_1.jpg', 'dinner', 1, 0),
+('Herb-Crusted Salmon', 'Salmon fillet with a crispy herb crust, served with mixed greens and cherry tomatoes.' ,150.0, 'image/menu_2.jpg', 'lunch', 1, 0),
+('Herb-Roasted Chicken', 'Succulent chicken pieces roasted with a blend of herbs and spices, accompanied by roasted potatoes and a side of mixed vegetables.' ,130.0, 'image/menu_3.jpg', 'dinner', 1, 0),
+('Full English Breakfast', 'A hearty breakfast with eggs, bacon, sausage, grilled tomatoes, mushrooms, and toast.' ,90.0, 'image/menu_4.jpg', 'breakfast', 1, 0),
+('Oatmeal with Fresh Fruits', 'Creamy oatmeal topped with fresh berries, nuts, and a drizzle of honey.' ,55.0, 'image/menu_5.jpg', 'breakfast', 0, 0),
+('Traditional Breakfast Plate', 'A classic breakfast plate with eggs, sausages, hash browns, toast, and a side of grilled mushrooms.' ,85.0, 'image/menu_7.jpg', 'breakfast', 1, 0),
+('Mushroom Omelette', 'A fluffy omelette filled with sautéed mushrooms and garnished with fresh herbs.' ,60.0, 'image/menu_6.jpg', 'breakfast', 1, 0),
+('Shrimp and Vegetable Stir-Fry', 'A vibrant and healthy dish featuring succulent shrimp, broccoli, carrots, snap peas, and garnished with fresh leafy greens. Perfectly seasoned and stir-fried to retain the crunch and flavor of the vegetables' ,120.0, 'image/offer_1', 'dinner', 0, 0),
+('Chicken Breast with Creamy Herb Sauce', 'Sliced chicken breast topped with a rich and creamy herb sauce, served with a side of crispy French fries and a fresh salad of greens and red bell peppers.' ,150.0, 'image/offer_2.jpg', 'dinner', 1, 0),
+('Avocado Burger', 'Juicy burgers topped with fresh avocado slices, a creamy white sauce, and garnished with mint leaves. Served in a soft bun, these burgers offer a delightful combination of flavors and textures.', 90.0, 'image/offer_4.jpg', 'lunch', 1, 0),
+('Pasta with Red Sauce', 'A delicious plate of pasta served with a rich and savory red sauce, garnished with fresh herbs and grated cheese. Accompanied by slices of toasted bread, this dish offers a perfect balance of flavors and textures.', 100.0, 'image/menu_8', 'lunch', 1, 0);
